@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Udemy-Project/static/css/main.085f404d.css",
+    "main.js": "/Udemy-Project/static/js/main.17bf7fc3.js",
+    "index.html": "/Udemy-Project/index.html",
+    "main.085f404d.css.map": "/Udemy-Project/static/css/main.085f404d.css.map",
+    "main.17bf7fc3.js.map": "/Udemy-Project/static/js/main.17bf7fc3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.085f404d.css",
+    "static/js/main.17bf7fc3.js"
+  ]
+}
